@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  RACMVVM
+//
+//  Created by maxin on 16/1/28.
+//  Copyright © 2016年 maxin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <ReactiveCocoa.h>
+#import <AFNetworking.h>
+#import <MJExtension.h>
+#import <MJRefresh.h>
+
+#endif /* PrefixHeader_pch */
